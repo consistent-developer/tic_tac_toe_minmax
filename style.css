@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+  font-family: 'open sans', monospace;
+  background-color: #fff;
+}
+
+.navbar .nav-item {
+  background-color: #ffffff;
+  font-size: 1.5rem;
+  padding: 1.5rem;
+}
+h1{
+  padding: 1rem;
+  font-size: 55px;
+  letter-spacing: 5px;
+}
+mark {
+   background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #FFD0AE 65%);
+   display: inline;
+}
+#sketch-holder{
+  padding-top: 3rem;
+}
+#result{
+  color: #FF9B85;
+  font-size: 30px;
+  padding: 2rem;
+  letter-spacing: 1.5rem;
+}
+
+ul li,h3,ul dt{
+  font-family:"open sans", monospace;
+  font-size: 26px;
+}
+ul dt{
+  letter-spacing: 3px;
+  color:#000000;
+  font-size: 20px !important;
+}
+tr th{
+  font-family:"open sans",monospace;
+  font-size: 26px;
+}
